@@ -12,7 +12,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 #### Education:
 <table width="100%" border='0'>
    <tr> 
-    <td width="14%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle">Saratov State University:</br> Computer Science and Information Technologies, Engineer</td></tr>
+    <td width="14%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle"><h7>Saratov State University:</br> Computer Science and Information Technologies, Engineer</h7></td></tr>
    </tr>
     <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="160" height="30"/><img src="./icons/coursera.png" alt="git" width="120" height="30"/></td><td valign="middle">Stanford | Online on Coursera: Machine Learning</td></tr>
    </tr>
@@ -50,6 +50,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <code><img src="icons/Selenium.png" width="40"/></br><a>Selenium</a></code>
 <code><img src="icons/requests.png" width="35"/></br><a>Requests</a></code>
 <code><img src="icons/appium.svg" width="40"/></br><a>Appium</a></code>
+
 <code><img src="icons/git.svg" width="40"/></br><a>Git</a></code>
 <code><img src="icons/allure.svg" width="40"/></br><a>Allure</a></code>
 <code><img src="icons/jenkins.svg" width="40"/></br><a>Jenkins</a></code>
