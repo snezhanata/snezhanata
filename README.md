@@ -22,3 +22,5 @@
    </tr>
   </table>
   </br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=snezhanata)](https://github.com/snezhanata/github-profile-trophy)
