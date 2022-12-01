@@ -31,7 +31,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)
 
-#### Tools:
+#### Languages & Tools:
 <!--
 <table width="100%" border='0'>
    <tr> 
