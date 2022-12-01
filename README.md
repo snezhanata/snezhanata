@@ -36,6 +36,4 @@ https://habr.com/ru/post/652867/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata)](https://github.com/snezhanata/github-readme-stats)
-
 
