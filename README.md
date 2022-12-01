@@ -16,12 +16,11 @@ https://habr.com/ru/post/652867/
   </table>
 
 #### Statistics:
-
-![trophy](https://github-profile-trophy.vercel.app/?username=snezhanata)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)
+<a align="center">![trophy](https://github-profile-trophy.vercel.app/?username=snezhanata)</a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)
 
 #### Skills:
 <table width="100%" border='0'>
@@ -34,7 +33,7 @@ https://habr.com/ru/post/652867/
     <td width="20%" valign="middle"><a href="..." target="_blank" rel="noreferrer"> </a></td><td valign="middle">...</td></tr>
     </tr>
   </table>
-
+  
 <!--
 #### Rebus:
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
