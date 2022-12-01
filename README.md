@@ -1,3 +1,10 @@
+<!--
+Many thanks to daniilshat for these articles which helped me to create this README =^__^=
+https://habr.com/ru/post/649363/
+https://habr.com/ru/post/652867/
+-->
+
+
 <h2 align="center">Hi there, I'm Snezhana</h3>
 <h4 align="center">Experienced, reliable and self-motivated Senior Quality Assurance Lead</h4>
 
@@ -24,7 +31,11 @@
   </br>
 
 #### Statistics:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=snezhanata)](https://github.com/snezhanata/github-profile-trophy)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)](https://git.io/streak-stats)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata)](https://github.com/anuraghazra/github-readme-stats)
+
 
