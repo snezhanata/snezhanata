@@ -4,10 +4,7 @@ https://habr.com/ru/post/649363/
 https://habr.com/ru/post/652867/
 https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
-
-<a align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=170&section=header&text=Welcome&fontSize=55&fontAlign=50&fontAlignY=30" /></a>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=150&section=header&text=Welcome&fontSize=45&fontAlign=50&fontAlignY=30" />
 <h3>Hi there, I'm Snezhana</h3>
 <h4>Experienced, reliable and self-motivated Senior Quality Assurance Lead</h4>
 
