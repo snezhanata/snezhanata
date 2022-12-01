@@ -20,15 +20,13 @@ https://habr.com/ru/post/652867/
     <td width="20%" valign="middle"><a href="..." target="_blank" rel="noreferrer"> </a></td><td valign="middle">...</td></tr>
     </tr>
   </table>
-  </br>
 
 #### Education:
 <table width="100%" border='0'>
    <tr> 
-    <td width="17%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="40" height="40"/></td><td valign="middle">Saratov State University,</br>Computer Science and Information Technologies,</br>Engineer</td></tr>
+    <td width="14%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="40" height="40"/></td><td valign="middle">Saratov State University:</br> Computer Science and Information Technologies, Engineer</td></tr>
    </tr>
   </table>
-  </br>
 
 #### Statistics:
 
