@@ -17,7 +17,7 @@
 
 <table width="100%" border='0'>
    <tr> 
-    <td width="18%" valign="bottom"><img src="./icons/sgu.jpeg" alt="git" width="40" height="40"/></td><td valign="middle">Saratov State University,</br>Computer Science and Information Technologies,</br>Engineer</td></tr>
+    <td width="18%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="40" height="40"/></td><td valign="middle">Saratov State University,</br>Computer Science and Information Technologies,</br>Engineer</td></tr>
    </tr>
   </table>
   </br>
