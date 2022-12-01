@@ -22,5 +22,3 @@
    </tr>
   </table>
   </br>
-  
-![Snezhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata&count_private=true&show_icons=true&theme=transparent)
