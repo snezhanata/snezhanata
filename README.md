@@ -6,8 +6,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
 
-<h2 align="center">Hi there, I'm Snezhana</h3> 
-<h4 align="center">Experienced, reliable and self-motivated Senior Quality Assurance Lead</h4>
+<h1 align="center">Hi there, I'm Snezhana</h1> 
+<h3 align="center">Experienced, reliable and self-motivated Senior Quality Assurance Lead</h3>
 
 #### Education:
 <table width="100%" border='0'>
