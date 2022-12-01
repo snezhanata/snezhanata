@@ -5,9 +5,11 @@ https://habr.com/ru/post/652867/
 https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=170&section=header&text=Welcome!&fontSize=55&fontAlign=50&fontAlignY=30" />
 
-<h1 align="center">Hi there, I'm Snezhana</h1> 
-<h3 align="center">Experienced, reliable and self-motivated Senior Quality Assurance Lead</h3>
+
+<h1>Hi there, I'm Snezhana</h1> 
+<h3>Experienced, reliable and self-motivated Senior Quality Assurance Lead</h3>
 
 #### Education:
 <table width="100%" border='0'>
