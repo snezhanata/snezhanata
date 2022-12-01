@@ -27,7 +27,9 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 #### Statistics:
 <a align="center">![trophy](https://github-profile-trophy.vercel.app/?username=snezhanata)</a>
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata)
+-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)
 
