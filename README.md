@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Snezhana </h1>
-<h3 align="center">Experienced, reliable and self-motivated Senior Quality Assurance Lead</h3>
+<h3 align="center">Hi there, I'm Snezhanas </h3>
+<h7 align="center">Experienced, reliable and self-motivated Senior Quality Assurance Lead</h7>
 
 
-### Skills:
+#### Skills:
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="middle"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./icons/python.svg" alt="python" width="40" height="40"/></a></td><td valign="middle">Python</td></tr>
@@ -14,7 +14,7 @@
   </table>
   </br>
 
-### Education:
+#### Education:
 <table width="100%" border='0'>
    <tr> 
     <td width="15%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="40" height="40"/></td><td valign="middle">Saratov State University,</br>Computer Science and Information Technologies,</br>Engineer</td></tr>
@@ -22,4 +22,6 @@
   </table>
   </br>
   
-![Snezhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata&show_icons=true)
+![Snezhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata&count_private=true&show_icons=true&theme=transparent)
+[![Snezhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata)](https://github.com/snezhanata/github-readme-stats)
+![Stanislavs's github stats](https://github-readme-stats.vercel.app/api?username=svasenkov&show_icons=true&theme=radical)
