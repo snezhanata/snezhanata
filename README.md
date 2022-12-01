@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Snezhana </h3>
+<h3 align="center">Hi there, I'm Snezhana</h3>
 <h7 align="center">Experienced, reliable and self-motivated Senior Quality Assurance Lead</h7>
 
 
