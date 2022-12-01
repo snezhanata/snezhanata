@@ -5,7 +5,7 @@ https://habr.com/ru/post/652867/
 -->
 
 
-<h2 align="center">Hi there, I'm Snezhana</h3>
+<h2 align="center">Hi there, I'm Snezhana</h3> 
 <h4 align="center">Experienced, reliable and self-motivated Senior Quality Assurance Lead</h4>
 
 
@@ -35,5 +35,13 @@ https://habr.com/ru/post/652867/
 [![trophy](https://github-profile-trophy.vercel.app/?username=snezhanata)](https://github.com/snezhanata/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)](https://git.io/streak-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata)](https://github.com/snezhanata/github-readme-stats)
+
+
+#### Rebus:
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+</a>  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a> 
+<a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a> 
 
 
