@@ -5,11 +5,11 @@ https://habr.com/ru/post/652867/
 https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=170&section=header&text=Welcome!&fontSize=55&fontAlign=50&fontAlignY=30" />
+<a align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=170&section=header&text=Welcome&fontSize=55&fontAlign=50&fontAlignY=30" /></a>
 
 
-<h1>Hi there, I'm Snezhana</h1> 
-<h3>Experienced, reliable and self-motivated Senior Quality Assurance Lead</h3>
+<h3>Hi there, I'm Snezhana</h3>
+<h4>Experienced, reliable and self-motivated Senior Quality Assurance Lead</h4>
 
 #### Education:
 <table width="100%" border='0'>
@@ -54,8 +54,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <code><img src="icons/Selenium.png" width="40"/></br><a>Selenium</a></code>
 <code><img src="icons/requests.png" width="35"/></br><a>Requests</a></code>
 <code><img src="icons/appium.svg" width="40"/></br><a>Appium</a></code>
-
 <code><img src="icons/git.svg" width="40"/></br><a>Git</a></code>
+
 <code><img src="icons/allure.svg" width="40"/></br><a>Allure</a></code>
 <code><img src="icons/jenkins.svg" width="40"/></br><a>Jenkins</a></code>
 <code><img src="icons/Bash.svg" width="40"/></br><a>Git</a></code>
