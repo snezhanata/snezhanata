@@ -10,6 +10,7 @@
     <td width="20%" valign="middle"><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="./icons/PyCharm.svg" alt="git" width="40" height="40"/> </a></td><td valign="middle">PyCharm</td></tr>
     <td width="20%" valign="middle"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./icons/VS-code.svg" alt="git" width="40" height="40"/> </a></td><td valign="middle">Visual Studio Code</td></tr>
     <td width="20%" valign="middle"><a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="./icons/Bash.svg" alt="git" width="40" height="40"/> </a></td><td valign="middle">Bash</td></tr>
+    <td width="20%" valign="middle"><a href="..." target="_blank" rel="noreferrer"> </a></td><td valign="middle">...</td></tr>
     </tr>
   </table>
   </br>
