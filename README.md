@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Snezhana </h1>
+<h3 align="center">Experienced, reliable and self-motivated Senior Quality Assurance Lead</h3>
 
-<!--
-**snezhanata/snezhanata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Skills:
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="middle"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./icons/python.svg" alt="python" width="40" height="40"/></a></td><td valign="middle">Python</td></tr>
+    <td width="20%" valign="middle"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./icons/git.svg" alt="git" width="40" height="40"/> </a></td><td valign="middle">Git</td></tr>
+    <td width="20%" valign="middle"><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="./icons/PyCharm.svg" alt="git" width="40" height="40"/> </a></td><td valign="middle">PyCharm</td></tr>
+    <td width="20%" valign="middle"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./icons/VS-code.svg" alt="git" width="40" height="40"/> </a></td><td valign="middle">Visual Studio Code</td></tr>
+    <td width="20%" valign="middle"><a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="./icons/Bash.svg" alt="git" width="40" height="40"/> </a></td><td valign="middle">Bash</td></tr>
+    </tr>
+  </table>
+  </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education:
+<table width="100%" border='0'>
+   <tr> 
+    <td width="15%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="40" height="40"/></td><td valign="middle">Saratov State University,</br>Computer Science and Information Technologies,</br>Engineer</td></tr>
+   </tr>
+  </table>
+  </br>
+  
+![Snezhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata&show_icons=true)
