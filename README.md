@@ -23,4 +23,8 @@
   </table>
   </br>
 
+#### Statistics:
 [![trophy](https://github-profile-trophy.vercel.app/?username=snezhanata)](https://github.com/snezhanata/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata)](https://github.com/anuraghazra/github-readme-stats)
+
