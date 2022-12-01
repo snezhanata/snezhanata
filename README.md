@@ -14,7 +14,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
    <tr> 
     <td width="14%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle">Saratov State University:</br> Computer Science and Information Technologies, Engineer</td></tr>
    </tr>
-    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="160" height="30"/></td><td valign="middle">Stanford|Online on Coursera: Machine Learning</td></tr>
+    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="160" height="30"/><img src="./icons/coursera.png" alt="git" width="120" height="30"/></td><td valign="middle">Stanford | Online on Coursera: Machine Learning</td></tr>
    </tr>
    <tr> 
     <td width="30%" valign="middle"><img src="./icons/appbrewery.png" alt="git" width="55" height="40"/></td><td valign="middle">The App Brewery: Python Coding Bootcamp</td></tr>
