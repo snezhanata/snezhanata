@@ -55,7 +55,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <code><img src="icons/allure.svg" width="40"/></br><a>Allure</a></code>
 <code><img src="icons/jenkins.svg" width="40"/></br><a>Jenkins</a></code>
 <code><img src="icons/Bash.svg" width="40"/></br><a>Git</a></code>
-<code><img src="icons/VS-code.svg" width="40"/></br><a>Allure</a></code>
+<code><img src="icons/VS-code.svg" width="40"/></br><a>Visual Studio Code</a></code>
 <code><img src="icons/Jira.png" width="40"/></br><a>Jira</a></code>
 <code><img src="icons/allure testops.svg" width="40"/></br><a>Allure TestOps</a></code>
 
