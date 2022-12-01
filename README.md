@@ -2,6 +2,7 @@
 Many thanks to daniilshat for these articles which helped me to create this README =^__^=
 https://habr.com/ru/post/649363/
 https://habr.com/ru/post/652867/
+https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 
 
@@ -11,7 +12,15 @@ https://habr.com/ru/post/652867/
 #### Education:
 <table width="100%" border='0'>
    <tr> 
-    <td width="14%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="40" height="40"/></td><td valign="middle">Saratov State University:</br> Computer Science and Information Technologies, Engineer</td></tr>
+    <td width="14%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle">Saratov State University:</br> Computer Science and Information Technologies, Engineer</td></tr>
+   </tr>
+    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="160" height="30"/></td><td valign="middle">Stanford|Online on Coursera: Machine Learning</td></tr>
+   </tr>
+   <tr> 
+    <td width="30%" valign="middle"><img src="./icons/appbrewery.png" alt="git" width="55" height="40"/></td><td valign="middle">The App Brewery: Python Coding Bootcamp</td></tr>
+   </tr>
+    <tr> 
+    <td width="14%" valign="middle"><img src="./icons/qaguru.png" alt="git" width="150" height="40"/></td><td valign="middle">QA GURU: Automated software testing with Python </td></tr>
    </tr>
   </table>
 
