@@ -31,7 +31,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)
 
-#### Skills:
+#### Tools:
 <table width="100%" border='0'>
    <tr> 
     <td width="30%" valign="middle"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./icons/python.svg" alt="python" width="40" height="40"/></a></td><td valign="middle">Python</td></tr>
