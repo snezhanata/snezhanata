@@ -23,5 +23,3 @@
   </br>
   
 ![Snezhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata&count_private=true&show_icons=true&theme=transparent)
-[![Snezhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=snezhanata)](https://github.com/snezhanata/github-readme-stats)
-![Stanislavs's github stats](https://github-readme-stats.vercel.app/api?username=svasenkov&show_icons=true&theme=radical)
