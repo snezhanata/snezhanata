@@ -18,7 +18,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 #### Additional Education:
 <table width="100%" border='0'>
    </tr>
-    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="150" height="23"/><img src="./icons/coursera_new.png" alt="git" width="100" height="25"/></td><td valign="middle">Stanford | Online on Coursera: Machine Learning</td></tr>
+    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="150" height="23"/>
+   <img src="./icons/coursera_new.png" alt="git" width="100" height="25"/></td><td valign="middle">Stanford | Online on Coursera: Machine Learning</td></tr>
    </tr>
    <tr> 
     <td width="30%" valign="middle"><img src="./icons/appbrewery_new.png" alt="git" width="43" height="33"/></td><td valign="middle">The App Brewery: Python Coding Bootcamp</td></tr>
