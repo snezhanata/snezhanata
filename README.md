@@ -55,7 +55,10 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <code><img src="icons/Jira.png" width="40"/></br><a>Jira</a></code>
 <code><img src="icons/allure testops.svg" width="40"/></br><a>Allure TestOps</a></code>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snezhanata&label=Profile%20views&color=0e75b6&style=flat" alt="snezhanata" /> </p>
+#### Connect with me:
+<p align="left">
+<a href="https://t.me/snezhanata" target="blank"><img align="center" src="./icons/telegram.svg" alt="snezhanata" height=40" width="40" /></a>
+</p>
 
 <!--
 #### Rebus =)
