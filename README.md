@@ -11,21 +11,21 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 #### Education:
 <table width="100%" border='0'>
    <tr> 
-    <td width="17%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle">Saratov State University:</br> Computer Science and Information Technologies, Engineer</td></tr>
+    <td width="17%" valign="middle" align="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle">Saratov State University:</br> Computer Science and Information Technologies, Engineer</td></tr>
    </tr>
   </table>
   
 #### Additional Education:
 <table width="100%" border='0'>
    </tr>
-    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="150" height="23"/></br>
+    <td width="14%" valign="middle" align="middle"><img src="./icons/stanford.png" alt="git" width="150" height="23"/></br>
    <img src="./icons/coursera_new.png" alt="git" width="100" height="25"/></td><td valign="middle">Stanford | Online on Coursera: Machine Learning</td></tr>
    </tr>
    <tr> 
-    <td width="30%" valign="middle"><img src="./icons/appbrewery_new.png" alt="git" width="43" height="33"/></td><td valign="middle">The App Brewery: Python Coding Bootcamp</td></tr>
+    <td width="30%" valign="middle" align="middle"><img src="./icons/appbrewery_new.png" alt="git" width="43" height="33"/></td><td valign="middle">The App Brewery: Python Coding Bootcamp</td></tr>
    </tr>
     <tr> 
-    <td width="14%" valign="middle"><img src="./icons/qaguru.png" alt="git" width="125" height="28"/></td><td valign="middle">QA GURU: Automated software testing with Python </td></tr>
+    <td width="14%" valign="middle" align="middle"><img src="./icons/qaguru.png" alt="git" width="125" height="28"/></td><td valign="middle">QA GURU: Automated software testing with Python </td></tr>
    </tr>
   </table>
 
