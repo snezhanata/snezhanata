@@ -54,16 +54,12 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <code><img src="icons/VS-code.svg" width="40"/></br><a>Visual Studio Code</a></code>
 <code><img src="icons/Jira.png" width="40"/></br><a>Jira</a></code>
 <code><img src="icons/allure testops.svg" width="40"/></br><a>Allure TestOps</a></code>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snezhanata&label=Profile%20views&color=0e75b6&style=flat" alt="snezhanata" /> </p>
 
 <!--
-#### Rebus:
+#### Rebus =)
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 </a>  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a> 
 <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a> 
--->
-
-<!--
-#### Game:
-[![Asyraf](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif)](https://asyrafff.com/) 
 -->
