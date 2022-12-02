@@ -54,6 +54,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <code><img src="icons/VS-code.svg" width="40"/></br><a>Visual Studio Code</a></code>
 <code><img src="icons/Jira.png" width="40"/></br><a>Jira</a></code>
 <code><img src="icons/allure testops.svg" width="40"/></br><a>Allure TestOps</a></code>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snezhanata&label=Profile%20views&color=0e75b6&style=flat" alt="snezhanata" /> </p>
 
 <!--
 #### Rebus:
