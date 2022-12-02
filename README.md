@@ -39,6 +39,34 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)
 
 #### Languages & Tools:
+<p align="left">
+<a href="https://www.python.org" target="blank"><img align="center" src="icons/python.png" alt="python" height=40" width="40" /></a>
+<a href="https://www.jetbrains.com/ru-ru/pycharm/" target="blank"><img align="center" src="icons/pycharm.png" alt="pycharm" height=40" width="40" /></a>
+<a href="https://docs.pytest.org/" target="blank"><img align="center" src="icons/pytest.png" alt="pytest" height=40" width="40" /></a>
+<a href="https://github.com/yashaka/selene" target="blank"><img align="center" src="icons/selene.png" alt="selene" height=40" width="40" /></a>
+<a href="https://www.selenium.dev/documentation/webdriver/" target="blank"><img align="center" src="icons/selenium_wd.png" alt="selenium_wd" height=35" width="35" /></a>
+<a href="https://pypi.org/project/requests/" target="blank"><img align="center" src="icons/requests.png" alt="requests" height=40" width="40" /></a>
+<a href="https://appium.io/" target="blank"><img align="center" src="icons/appium.svg" alt="appium" height=40" width="40" /></a>
+<a href="https://browserstack.com/" target="blank"><img align="center" src="icons/browserstack.svg" alt="browserstack" height=40" width="40" /></a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="icons/git.svg" alt="git" height=40" width="40" /></a>
+<a href="https://www.docker.com/" target="blank"><img align="center" src="icons/docker.svg" alt="docker" height=40" width="40" /></a>
+<a href="https://aerokube.com/selenoid/latest/" target="blank"><img align="center" src="icons/selenoid.svg" alt="selenoid" height=40" width="40" /></a>
+<a href="https://www.jenkins.io/" target="blank"><img align="center" src="icons/jenkins.svg" alt="jenkins" height=40" width="40" /></a>
+<a href="http://www.gnu.org/software/bash/" target="blank"><img align="center" src="icons/Bash.svg" alt="bash" height=40" width="40" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="icons/VS-code.svg" alt="vscode" height=40" width="40" /></a>
+<a href="https://www.atlassian.com/ru/software/jira/" target="blank"><img align="center" src="icons/Jira.png" alt="jira" height=40" width="40" /></a>
+<a href="https://qameta.io/allure-report/" target="blank"><img align="center" src="icons/allure.svg" alt="allure" height=40" width="40" /></a>
+<a href="https://qameta.io/" target="blank"><img align="center" src="icons/allure testops.svg" alt="allure_testops" height=40" width="40" /></a>
+
+</p>
+
+#### Connect with me:
+<p align="left">
+<a href="https://t.me/snezhanata" target="blank"><img align="center" src="./icons/telegram.svg" alt="snezhanata" height=40" width="40" /></a>
+</p>
+
+<!--
+#### Languages with labels
 <code><img src="icons/python.png" width="35"/></br><a>Python</a></code>
 <code><img src="icons/pycharm.png" width="40"/></br><a>PyCharm</a></code>
 <code><img src="icons/pytest.png" width="35"/></br><a>Pytest</a></code>
@@ -55,12 +83,6 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <code><img src="icons/Jira.png" width="40"/></br><a>Jira</a></code>
 <code><img src="icons/allure testops.svg" width="40"/></br><a>Allure TestOps</a></code>
 
-#### Connect with me:
-<p align="left">
-<a href="https://t.me/snezhanata" target="blank"><img align="center" src="./icons/telegram.svg" alt="snezhanata" height=40" width="40" /></a>
-</p>
-
-<!--
 #### Rebus =)
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 </a>  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a> 
