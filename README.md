@@ -43,7 +43,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <a href="https://www.python.org" target="blank"><img align="center" src="icons/python.png" alt="python" height=40" width="40" /></a>
 <a href="https://www.jetbrains.com/ru-ru/pycharm/" target="blank"><img align="center" src="icons/pycharm.png" alt="pycharm" height=40" width="40" /></a>
 <a href="https://docs.pytest.org/" target="blank"><img align="center" src="icons/pytest.png" alt="pytest" height=40" width="40" /></a>
-<a href="https://github.com/yashaka/selene" target="blank"><img align="center" src="icons/selene.png" alt="selene" height=40" width="40" /></a>
+<a href="https://github.com/yashaka/selene" target="blank"><img align="center" src="icons/selene.png" alt="selene" height=50" width="50" /></a>
 <a href="https://www.selenium.dev/documentation/webdriver/" target="blank"><img align="center" src="icons/selenium_wd.png" alt="selenium_wd" height=35" width="35" /></a>
 <a href="https://pypi.org/project/requests/" target="blank"><img align="center" src="icons/requests.png" alt="requests" height=30" width="30" /></a>
 <a href="https://appium.io/" target="blank"><img align="center" src="icons/appium.svg" alt="appium" height=40" width="40" /></a>
