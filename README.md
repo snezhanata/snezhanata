@@ -11,15 +11,20 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 #### Education:
 <table width="100%" border='0'>
    <tr> 
-    <td width="14%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle"><h7>Saratov State University:</br> Computer Science and Information Technologies, Engineer</h7></td></tr>
+    <td width="17%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle"><h7>Saratov State University:</br> Computer Science and Information Technologies, Engineer</h7></td></tr>
    </tr>
-    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="160" height="30"/><img src="./icons/coursera.png" alt="git" width="120" height="30"/></td><td valign="middle">Stanford | Online on Coursera: Machine Learning</td></tr>
+  </table>
+  
+#### Additional Education:
+<table width="100%" border='0'>
+   </tr>
+    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="150" height="23"/><img src="./icons/coursera_new.png" alt="git" width="100" height="25"/></td><td valign="middle">Stanford | Online on Coursera: Machine Learning</td></tr>
    </tr>
    <tr> 
-    <td width="30%" valign="middle"><img src="./icons/appbrewery.png" alt="git" width="55" height="40"/></td><td valign="middle">The App Brewery: Python Coding Bootcamp</td></tr>
+    <td width="30%" valign="middle"><img src="./icons/appbrewery_new.png" alt="git" width="43" height="33"/></td><td valign="middle">The App Brewery: Python Coding Bootcamp</td></tr>
    </tr>
     <tr> 
-    <td width="14%" valign="middle"><img src="./icons/qaguru.png" alt="git" width="150" height="40"/></td><td valign="middle">QA GURU: Automated software testing with Python </td></tr>
+    <td width="14%" valign="middle"><img src="./icons/qaguru.png" alt="git" width="125" height="28"/></td><td valign="middle">QA GURU: Automated software testing with Python </td></tr>
    </tr>
   </table>
 
@@ -43,6 +48,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
     <td width="20%" valign="middle"><a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="./icons/Bash.svg" alt="git" width="40" height="40"/> </a></td><td valign="middle">Bash</td></tr>
     </tr>
   </table>
+
+
 -->
 <code><img src="icons/python.png" width="35"/></br><a>Python</a></code>
 <code><img src="icons/pycharm.png" width="40"/></br><a>PyCharm</a></code>
