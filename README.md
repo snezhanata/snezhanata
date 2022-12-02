@@ -45,15 +45,15 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <a href="https://docs.pytest.org/" target="blank"><img align="center" src="icons/pytest.png" alt="pytest" height=40" width="40" /></a>
 <a href="https://github.com/yashaka/selene" target="blank"><img align="center" src="icons/selene.png" alt="selene" height=40" width="40" /></a>
 <a href="https://www.selenium.dev/documentation/webdriver/" target="blank"><img align="center" src="icons/selenium_wd.png" alt="selenium_wd" height=35" width="35" /></a>
-<a href="https://pypi.org/project/requests/" target="blank"><img align="center" src="icons/requests.png" alt="requests" height=40" width="40" /></a>
+<a href="https://pypi.org/project/requests/" target="blank"><img align="center" src="icons/requests.png" alt="requests" height=30" width="30" /></a>
 <a href="https://appium.io/" target="blank"><img align="center" src="icons/appium.svg" alt="appium" height=40" width="40" /></a>
 <a href="https://browserstack.com/" target="blank"><img align="center" src="icons/browserstack.svg" alt="browserstack" height=40" width="40" /></a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="icons/git.svg" alt="git" height=40" width="40" /></a>
-<a href="https://www.docker.com/" target="blank"><img align="center" src="icons/docker.svg" alt="docker" height=40" width="40" /></a>
+<a href="https://www.docker.com/" target="blank"><img align="center" src="icons/docker.svg" alt="docker" height=50" width="50" /></a>
 <a href="https://aerokube.com/selenoid/latest/" target="blank"><img align="center" src="icons/selenoid.svg" alt="selenoid" height=40" width="40" /></a>
-<a href="https://www.jenkins.io/" target="blank"><img align="center" src="icons/jenkins.svg" alt="jenkins" height=40" width="40" /></a>
+<a href="https://www.jenkins.io/" target="blank"><img align="center" src="icons/jenkins.svg" alt="jenkins" height=45" width="45" /></a>
 <a href="http://www.gnu.org/software/bash/" target="blank"><img align="center" src="icons/Bash.svg" alt="bash" height=40" width="40" /></a>
-<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="icons/VS-code.svg" alt="vscode" height=40" width="40" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="icons/VS-code.svg" alt="vscode" height=35" width="35" /></a>
 <a href="https://www.atlassian.com/ru/software/jira/" target="blank"><img align="center" src="icons/Jira.png" alt="jira" height=40" width="40" /></a>
 <a href="https://qameta.io/allure-report/" target="blank"><img align="center" src="icons/allure.svg" alt="allure" height=40" width="40" /></a>
 <a href="https://qameta.io/" target="blank"><img align="center" src="icons/allure testops.svg" alt="allure_testops" height=40" width="40" /></a>
@@ -75,7 +75,6 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 <code><img src="icons/requests.png" width="35"/></br><a>Requests</a></code>
 <code><img src="icons/appium.svg" width="40"/></br><a>Appium</a></code>
 <code><img src="icons/git.svg" width="40"/></br><a>Git</a></code>
-
 <code><img src="icons/allure.svg" width="40"/></br><a>Allure</a></code>
 <code><img src="icons/jenkins.svg" width="40"/></br><a>Jenkins</a></code>
 <code><img src="icons/Bash.svg" width="40"/></br><a>Bash</a></code>
