@@ -5,13 +5,13 @@ https://habr.com/ru/post/652867/
 https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=fadeIn&height=200&section=header&text=Welcome&fontSize=45&fontAlign=50&fontAlignY=35" />
-<h3>Hi there, I'm Snezhana</h3>
-<h4>Experienced, reliable and self-motivated Senior Quality Assurance Lead</h4>
+<h2>Hi there, I'm Snezhana</h3>
+<h3>Experienced, reliable and self-motivated Senior Quality Assurance Lead</h4>
 
 #### Education:
 <table width="100%" border='0'>
    <tr> 
-    <td width="17%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle"><h6>Saratov State University:</br> Computer Science and Information Technologies, Engineer</h6></td></tr>
+    <td width="17%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle">Saratov State University:</br> Computer Science and Information Technologies, Engineer</td></tr>
    </tr>
   </table>
   
