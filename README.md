@@ -11,14 +11,14 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 #### Education:
 <table width="100%" border='0'>
    <tr> 
-    <td width="17%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle"><h7>Saratov State University:</br> Computer Science and Information Technologies, Engineer</h7></td></tr>
+    <td width="17%" valign="middle"><img src="./icons/sgu.jpeg" alt="git" width="50" height="50"/></td><td valign="middle"><h6>Saratov State University:</br> Computer Science and Information Technologies, Engineer</h6></td></tr>
    </tr>
   </table>
   
 #### Additional Education:
 <table width="100%" border='0'>
    </tr>
-    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="150" height="23"/>
+    <td width="14%" valign="middle"><img src="./icons/stanford.png" alt="git" width="150" height="23"/></br>
    <img src="./icons/coursera_new.png" alt="git" width="100" height="25"/></td><td valign="middle">Stanford | Online on Coursera: Machine Learning</td></tr>
    </tr>
    <tr> 
