@@ -38,6 +38,8 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snezhanata&layout=compact&theme=vue)
+
 #### Languages & Tools:
 <p align="left">
 <a href="https://www.python.org" target="blank"><img align="center" src="icons/python.png" alt="python" height=40" width="40" /></a>
