@@ -36,7 +36,7 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snezhanata&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=snezhanata&count_private=true&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snezhanata&count_private=true&layout=compact&theme=default)
 
 
 #### Languages & Tools:
